@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akhil People call me Octopus
-- 👀 I’m interested in Data Analytics,Data Science and Machine Learning
+- 👀 I’m interested in Data Analytics,Data Science,Machine Learning and Generative AI specialized in NLP.
 - 🌱 I’m currently learning Data Science and Machine Learning From SCALER
 - 💞️ I’m looking to collaborate on working projects on Data Science and Machine Learning
 - 📫 How to reach me -- Call at: '8309046043', mail at : akhilreddy30121996@gmail.com 
